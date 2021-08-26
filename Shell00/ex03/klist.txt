@@ -1,0 +1,6 @@
+Credentials cache: API:4CE8897D-71C9-4941-AD88-7901019FDA49
+        Principal: tkondrac@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug  2 08:45:31 2021  Aug  2 18:45:31 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Aug  2 08:45:33 2021  Aug  2 18:45:31 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
